@@ -1,4 +1,4 @@
-# Henryoman
+# henryoman
 
 - front end / typescript / next.js / Go / Solana / Rust
 - currently learning Godot
