@@ -1,8 +1,12 @@
 # henryoman
 
 - TS / next.js / Rust / Solana / Go / TUI's / trading bots / AI data scale & system design / CPU & GPU graphics programming / Godot 
-- Graphic design, music production (logic), DJ, and I also own a bar in Los Angeles called Detour https://detour.im
-- currently working on: 4ever app (https://github.com/4everlabs), CHUI instant messaging tui with OpenTUI (https://github.com/4everlabs/chui), Tree React library (https://github.com/4everlabs/tree), Pump Kit pump.fun typescript SDK using solana/kit 5 (https://github.com/henryoman/pump-kit)
+- Graphic design, music production (logic), DJ, and I also own a bar in Los Angeles called [Detour](https://detour.im)
+- currently working on:
+  - [4ever app](https://github.com/4everlabs)
+  - [CHUI](https://github.com/4everlabs/chui) instant messaging tui with OpenTUI
+  - [Tree](https://github.com/4everlabs/tree) React library
+  - [Pump Kit](https://github.com/henryoman/pump-kit) pump.fun typescript SDK using solana/kit 5
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henryoman&layout=compact)
