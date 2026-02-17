@@ -1,6 +1,6 @@
 # henryoman
 
-- TS / next.js / Rust / Solana / Go / TUI's / trading bots / AI data scale & system design / CPU & GPU graphics programming / Godot 
+- TS / next.js / Rust / Solana / Go / TUI's / trading bots / AI data scale & system design / CPU & GPU graphics programming 
 - Graphic design, music production (logic), DJ, and I also own a bar in Los Angeles called [Detour](https://detour.im)
 - currently working on:
   - [4ever app](https://4ever.ai)
