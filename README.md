@@ -1,10 +1,11 @@
 # henryoman
 
-- front end / typescript / next.js / Go / Solana / Rust
-- currently learning Godot
+- TS / next.js / Rust / Solana / Go / TUI's / trading bots / AI data scale & system design / CPU & GPU graphics programming / Godot 
+- Graphic design, music production (logic), DJ, and I also own a bar in Los Angeles called Detour https://detour.im
+- currently working on: 4ever app (https://github.com/4everlabs), CHUI instant messaging tui with OpenTUI (https://github.com/4everlabs/chui), Tree React library (https://github.com/4everlabs/tree), Pump Kit pump.fun typescript SDK using solana/kit 5 (https://github.com/henryoman/pump-kit)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henryoman&layout=compact&exclude_repo=hood-wars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henryoman&layout=compact)
 
 ## Frameworks & Tools
 <p align="left">
