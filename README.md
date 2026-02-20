@@ -6,7 +6,7 @@
   - [4ever app](https://4ever.ai)
   - [chui](https://github.com/4everlabs/chui) instant messaging tui with OpenTUI
   - [tree](https://github.com/4everlabs/tree) react library
-  - [pump kit](https://github.com/henryoman/pump-kit) pump.fun typescript SDK using solana/kit 5
+  - [pump kit](https://github.com/henryoman/pump-kit) pump.fun typescript SDK for ai agents and trading bots using solana/kit 6
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henryoman&layout=compact)
