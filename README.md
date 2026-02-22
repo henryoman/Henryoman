@@ -4,6 +4,7 @@
 - Graphic design, music production (logic), DJ, and I also own a bar in Los Angeles called [Detour](https://detour.im)
 - currently working on:
   - [4ever app](https://4ever.ai)
+  - [TrenchClaw](https://github.com/henryoman/trenchclaw) super powered solana ai agent
   - [chui](https://github.com/4everlabs/chui) instant messaging tui with OpenTUI
   - [tree](https://github.com/4everlabs/tree) react library
   - [pump kit](https://github.com/henryoman/pump-kit) pump.fun typescript SDK for ai agents and trading bots using solana/kit 6
