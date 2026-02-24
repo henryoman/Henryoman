@@ -3,7 +3,7 @@
 - TS / next.js / Rust / Solana / Go / TUI's / trading bots / AI data scale & system design / CPU & GPU graphics programming 
 - Graphic design, music production (logic), DJ, and I also own a bar in Los Angeles called [Detour](https://detour.im)
 - currently working on:
-  - [4ever app](https://4ever.ai)
+  - [4ever app](https://4ever.ai) Family based content sharing platform
   - [TrenchClaw](https://github.com/henryoman/trenchclaw) super powered solana ai agent
   - [chui](https://github.com/4everlabs/chui) instant messaging tui with OpenTUI
   - [tree](https://github.com/4everlabs/tree) react library
