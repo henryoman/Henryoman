@@ -4,6 +4,8 @@
 - Graphic design, music production (logic), DJ, and I also own a bar in Los Angeles called [Detour](https://detour.im)
 - currently working on:
   - [4ever app](https://4ever.ai) Family based content sharing platform
+  - [MOG](https://github.com/4everlabs/mog) marketing focused agentic harness
+  - [CLOG](https://github.com/4everlabs/clog) posthog focused agentic harness
   - [TrenchClaw](https://github.com/henryoman/trenchclaw) super powered solana ai agent
   - [chui](https://github.com/4everlabs/chui) instant messaging tui with OpenTUI
   - [tree](https://github.com/4everlabs/tree) react library
