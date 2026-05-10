@@ -3,7 +3,7 @@
 - TS / next.js / Rust / Solana / Go / TUI's / trading bots / AI data scale & system design / CPU & GPU graphics programming 
 - Graphic design, music production (logic), DJ, and I also own a bar in Los Angeles called [Detour](https://detour.im)
 - currently working on:
-  - [4ever app](https://4ever.ai) Family based content sharing platform
+  - [Memoir app](https://memoir.ag) Family based content sharing platform
   - [MOG](https://github.com/4everlabs/mog) marketing focused agentic harness
   - [CLOG](https://github.com/4everlabs/clog) posthog focused agentic harness
   - [fast58](https://github.com/henryoman/fast58) modern base58 conversion libary for javascript
