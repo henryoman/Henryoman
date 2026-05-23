@@ -5,7 +5,6 @@
 - currently working on:
   - [Memoir app](https://memoir.ag) Family based content sharing platform
   - [MOG](https://github.com/4everlabs/mog) marketing focused agentic harness
-  - [CLOG](https://github.com/4everlabs/clog) posthog focused agentic harness
   - [fast58](https://github.com/henryoman/fast58) modern base58 conversion libary for javascript
   - [TrenchClaw](https://github.com/henryoman/trenchclaw) super powered solana ai agent
   - [chui](https://github.com/4everlabs/chui) instant messaging tui with OpenTUI
