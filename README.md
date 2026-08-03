@@ -4,7 +4,7 @@
 - Graphic design, music production (logic), DJ, and I also own a bar in Los Angeles called [Detour](https://detour.im)
 - currently working on:
   - [Memoir app](https://memoir.ag) Family based content sharing platform
-  - [MOG](https://github.com/4everlabs/mog) marketing focused agentic harness
+  - [Vercel Native Awesome List](https://github.com/henryoman/awesome-vercel-native) awesome list for the Vercel Native ecosystem
   - [fast58](https://github.com/henryoman/fast58) modern base58 conversion libary for javascript
   - [TrenchClaw](https://github.com/henryoman/trenchclaw) super powered solana ai agent
   - [chui](https://github.com/4everlabs/chui) instant messaging tui with OpenTUI
